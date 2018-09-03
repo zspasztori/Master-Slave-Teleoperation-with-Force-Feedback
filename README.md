@@ -19,3 +19,6 @@ control and to ensure the safety of the operator, the force is exerted
 through virtual springs. Experiments to tune the force-feedback to
 the operator have been implemented, as well as custom end-effector,
 designed specifically for teleoperation.
+
+Videos:
+Coming soon
