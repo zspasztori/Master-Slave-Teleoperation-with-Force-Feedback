@@ -20,5 +20,8 @@ through virtual springs. Experiments to tune the force-feedback to
 the operator have been implemented, as well as custom end-effector,
 designed specifically for teleoperation.
 
+The document can be viewed at:
+https://www.overleaf.com/read/jswnfhcfmfdw
+
 Videos:
 Coming soon
