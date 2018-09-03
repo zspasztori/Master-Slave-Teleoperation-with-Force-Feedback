@@ -1,4 +1,4 @@
-# MasterThesis
+# Master-Slave Teleoperation with Force-Feedback
 Data processing and plots from my master thesis
 
 Abstract:
