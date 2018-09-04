@@ -23,6 +23,6 @@ designed specifically for teleoperation.
 The document can be viewed at:
 https://www.overleaf.com/read/jswnfhcfmfdw
 
-Videos: (This is only a demo, a better video will be uploaded this week 04.09)
-https://drive.google.com/file/d/1JbthSS7ey72C8npP-2C1GWhj29pG16sj/view?usp=sharing
+Videos: 
 
+https://drive.google.com/file/d/1_dVdvX6upS7QQiuirfVqVSaVEUG8uwVf/view?usp=sharing
