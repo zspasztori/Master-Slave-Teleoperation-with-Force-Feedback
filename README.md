@@ -25,4 +25,4 @@ https://www.overleaf.com/read/jswnfhcfmfdw
 
 Videos: 
 
-https://drive.google.com/file/d/1_dVdvX6upS7QQiuirfVqVSaVEUG8uwVf/view?usp=sharing
+https://youtu.be/1lqlLs5ehaU
